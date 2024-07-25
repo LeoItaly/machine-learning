@@ -1,17 +1,5 @@
-# intro-to-ml
+# Dataset
 
-models to train:
-REGRESSION - life expectancy
-- linear regr P1
-- ANN P3
-
-CLASSIFICATION - developed / developing
-- logistic regr P2
-- arbitrary P3
-
-DISCUSSION
-- comparison to prev work P2
-
-P1 - Leo
-P2 - Rasmus
-P3 - Andris
+The area of interest pertains to understanding how socio-economic (GDP, schooling, income composition), health (immunization rates, adult mortality, HIV/AIDS
+prevalence), and lifestyle (alcohol consumption, BMI) factors explain life expectancy among and between countries. In this project we have considered
+[data](https://www.kaggle.com/datasets/lashagoch/life-expectancy-whoupdated) from year 2000-2015 for 179 countries for further analysis and it consists of 21 columns and 2864 rows.
